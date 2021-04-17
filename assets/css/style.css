@@ -126,18 +126,23 @@ main section{
     position: relative;
 }
 
-.col-6 a{
+.text-box-container{
+    position: relative;
+}
+
+.text-box-container a{
     position: absolute;
         width: 100%;
         height: 100%;
         top: 0;
         left: 0;
-        text-decoration: none; /* No underlines on the link */
-        z-index: 10; /* Places the link above everything else in the div */
-}
+        text-decoration: none; /* No underlines on the link*/
+        z-index: 10;  /*Places the link above everything else in the div*/
+} 
 
-.col-6:hover{
-    opacity: .3;
+.text-box-container:hover{
+    opacity: .8;
+    border: 1px solid
   
 }
 
@@ -174,7 +179,7 @@ main section{
 #first-project{
     min-width: 75vw;
     max-width: 100vw;
-    background-image: url(../images/surf-report.jpeg);
+    background-image: url(../images/searchwithmap.png);
     min-height: 50vh;
 }
 
