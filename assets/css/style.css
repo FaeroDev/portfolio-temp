@@ -184,10 +184,16 @@ main section{
 }
 
 #second-project{
+    min-width: 75vw;
+    max-width: 100vw;
+
     background-image: url(../images/weatherdsh.png);
 }
 
 #third-project{
+    min-width: 75vw;
+    max-width: 100vw;
+
     background-image: url(../images/workschedule.png);
 }
 
