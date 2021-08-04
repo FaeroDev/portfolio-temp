@@ -31,12 +31,12 @@
     flex-wrap: wrap;
 }
 
-#profile-pic{
+/* #profile-pic{
   align-self: flex-start;
   display: flex;
   max-width: 100vw;
   flex: 1 0 400px !important;
-}
+} */
 
 .text-box {
     background-clip: padding-box;
