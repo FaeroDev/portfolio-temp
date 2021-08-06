@@ -25,10 +25,11 @@
 
 .hero-image {
     width: 100%;
-    background-image: url("../images/bg.jpg");
-    flex-direction: row;
-    display: flex;
-    flex-wrap: wrap;
+    /* background-image: url("../images/bg.jpg"); */
+    background-image: url("../images/faerodev-logo-cropped.png");
+    /* flex-direction: row; */
+    /* display: grid; */
+    /* flex-wrap: wrap; */
 }
 
 /* #profile-pic{
